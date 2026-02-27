@@ -1,16 +1,8 @@
-# 👋 ¡Hola, soy Jeimy!
+# 👋 Hola, soy Jeimy
 
-Soy **Jeimy Cáceres**, una profesional multidisciplinaria de Chile que está dando el salto formal al mundo del **desarrollo web y la programación**, sin dejar de lado mi experiencia en **diseño web, diseño gráfico y marketing digital**.
+Soy desarrolladora web con experiencia real creando soluciones para pequeñas empresas y actualmente estoy enfocando mi crecimiento hacia el desarrollo Full Stack con Python y Django.
 
-En este GitHub vas a encontrar una mezcla de:
-
-- 👩‍💻 Proyectos del **bootcamp de programación Full Stack (Python)**
-- 🌐 Experimentos con **HTML, CSS, JavaScript, jQuery y Bootstrap**
-- 🐍 Ejercicios y mini proyectos en **Python**
-- 🎨 Proyectos relacionados con **diseño, branding y contenidos digitales**
-- 🧪 Pequeños experimentos en distintos lenguajes de programación a medida que los vaya aprendiendo
-
----
+En este GitHub encontrarás proyectos de backend, frontend y experimentos técnicos que documentan mi proceso de aprendizaje y evolución como desarrolladora.
 
 ## ✌️ Sobre mí
 
