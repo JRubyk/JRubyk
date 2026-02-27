@@ -19,15 +19,18 @@ Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 ## ✌️ Sobre mí
 
 - 🇨🇱 Vivo en Chile y trabajo de forma **independiente / remota**.
+- 
 - 🎨 Tengo experiencia como:
   - **Diseñadora web** (WordPress, Elementor, WooCommerce)
   - **Diseñadora gráfica**
   - **Creadora de contenido** y **Community Manager**
   - **Gestión de clientes y ventas online**
+    
 - 🐍 Actualmente estoy estudiando:
   - **Fundamentos de Python**
   - **POO (Programación Orientada a Objetos)**
-  - **Estructuras de datos, funciones, control de flujo, buenas prácticas (PEP8, Zen de Python)**  
+  - **Estructuras de datos, funciones, control de flujo, buenas prácticas (PEP8, Zen de Python)**
+    
 - 🧠 Me interesa mucho:
   - Juntar **programación + diseño + experiencias de usuario**
   - Automatizar tareas repetitivas
