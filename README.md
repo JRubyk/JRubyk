@@ -11,7 +11,7 @@ En este GitHub encontrarás proyectos de backend, frontend y experimentos técni
 
 Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 
-- 🧩[[Libro Contable - Bot Telegram](https://github.com/JRubyk/Libro-contable-conIA)] - Bot en Python para registro automatizado de ingresos y gastos vía Telegram.
+- 🧩[[Libro Contable - Bot Telegram](https://github.com/JRubyk/Libro-contable-conIA)] - Bot en Python para registro automatizado de ingresos y gastos vía Telegram, orientado a gestión financiera simple.
 
 - 🧩[[E-Commerce Azulia](https://github.com/JRubyk/E-Comerce-Azulia-2/)] - Backend en Python para estructura de tienda online y gestión de productos.
 
@@ -34,7 +34,7 @@ Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 
 - 🇨🇱 Vivo en Chile y trabajo de forma **independiente / remota**.
   
-- 🎨 Tengo experiencia como:
+- 👉 Experiencia profesional en:
   - **Diseñadora web** (WordPress, Elementor, WooCommerce)
   - **Diseñadora gráfica**
   - **Creadora de contenido** y **Community Manager**
@@ -54,7 +54,7 @@ Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 
 ## 🏢 Sobre SilverDesign
 
-**SilverDesign** es el proyecto donde he desarrollado la mayor parte de mi experiencia profesional.
+**SilverDesign** es el proyecto donde consolidé la mayor parte de mi experiencia profesional en desarrollo web y soluciones digitales.
 
 Algunas cosas que hago / he hecho desde SilverDesign:
 
