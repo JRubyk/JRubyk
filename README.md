@@ -4,6 +4,16 @@ Soy desarrolladora web con experiencia real creando soluciones para pequeñas em
 
 En este GitHub encontrarás proyectos de backend, frontend y experimentos técnicos que documentan mi proceso de aprendizaje y evolución como desarrolladora.
 
+##🚀 Proyectos destacados
+
+Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
+
+🧩 [NombreRepo1] — Proyecto backend con Python
+
+🧩 [NombreRepo2] — Aplicación Django con base de datos
+
+🧩 [NombreRepo3] — Experimento técnico / sistema en desarrollo
+
 ## ✌️ Sobre mí
 
 - 🇨🇱 Vivo en Chile y trabajo de forma **independiente / remota**.
