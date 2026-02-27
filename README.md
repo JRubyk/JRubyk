@@ -8,13 +8,13 @@ En este GitHub encontrarás proyectos de backend, frontend y experimentos técni
 
 Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 
-### 🧩[[Libro Contable - Bot Telegram](https://github.com/JRubyk/Libro-contable-conIA)]
+- 🧩[[Libro Contable - Bot Telegram](https://github.com/JRubyk/Libro-contable-conIA)]
 Bot en Python para registro automatizado de ingresos y gastos vía Telegram.
 
-### 🧩[[E-Commerce Azulia](https://github.com/JRubyk/E-Comerce-Azulia-2/)] 
+- 🧩[[E-Commerce Azulia](https://github.com/JRubyk/E-Comerce-Azulia-2/)] 
 Backend en Python para estructura de tienda online y gestión de productos.
 
-### 🧩[[Proyecto Adopta Tu Gato](https://github.com/JRubyk/Proyectoadoptatugato/)]
+- 🧩[[Proyecto Adopta Tu Gato](https://github.com/JRubyk/Proyectoadoptatugato/)]
 Sitio frontend en HTML, CSS y JS para difusión de gatos en adopción.
 
 --- 
