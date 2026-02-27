@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Jeimy" />
+  <img src="IMG/banner.png" alt="Banner Jeimy" />
 </p>
 
 # 👋 Hola, soy Jeimy
@@ -20,16 +20,16 @@ Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 
 ## 🧠 Habilidades Técnicas
 <p align="center">
-  <img src="ruta/python.png" height="35" style="margin:5px"/>
-  <img src="ruta/html.png" height="35" style="margin:5px"/>
-  <img src="ruta/js.png" height="35" style="margin:5px"/>
-  <img src="ruta/django.png" height="35" style="margin:5px"/>
-  <img src="ruta/wordpress.png" height="35" style="margin:5px"/>
-  <img src="ruta/woocommerce.png" height="35" style="margin:5px"/>
-  <img src="ruta/elementor.png" height="35" style="margin:5px"/>
-  <img src="ruta/css.png" height="35" style="margin:5px"/>
+  <img src="IMG/python.png" height="35" style="margin:5px"/>
+  <img src="IMG/html.png" height="35" style="margin:5px"/>
+  <img src="IMG/javascript.png" height="35" style="margin:5px"/>
+  <img src="IMG/django.png" height="35" style="margin:5px"/>
+  <img src="IMG/wordpress.png" height="35" style="margin:5px"/>
+  <img src="IMG/woocomerce.png" height="35" style="margin:5px"/>
+  <img src="IMG/elementor.png" height="35" style="margin:5px"/>
+  <img src="IMG/css.png" height="35" style="margin:5px"/>
 </p>
---- 
+
 
 ## ✌️ Sobre mí
 
@@ -123,9 +123,9 @@ La idea es que este espacio funcione como:
 
 Si estás leyendo esto y te interesa:
 
-- colaborar,
+- colaborar
 - hacer feedback de código,
-- o simplemente conversar sobre diseño + dev,
+- o simplemente conversar sobre diseño + dev
 
 puedes contactarme por:
 
