@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="presentacion.png" alt="Banner" />
+  <img src="presentacion.png" alt="Banner Jeimy" />
 </p>
-
 
 # 👋 Hola, soy Jeimy
 
