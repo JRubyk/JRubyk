@@ -18,6 +18,17 @@ Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 
 - 🧩[[Proyecto Adopta Tu Gato](https://github.com/JRubyk/Proyectoadoptatugato/)] - Sitio frontend en HTML, CSS y JS para difusión de gatos en adopción.
 
+## 🧠 Habilidades Técnicas
+<p align="center">
+  <img src="ruta/python.png" height="35" style="margin:5px"/>
+  <img src="ruta/html.png" height="35" style="margin:5px"/>
+  <img src="ruta/js.png" height="35" style="margin:5px"/>
+  <img src="ruta/django.png" height="35" style="margin:5px"/>
+  <img src="ruta/wordpress.png" height="35" style="margin:5px"/>
+  <img src="ruta/woocommerce.png" height="35" style="margin:5px"/>
+  <img src="ruta/elementor.png" height="35" style="margin:5px"/>
+  <img src="ruta/css.png" height="35" style="margin:5px"/>
+</p>
 --- 
 
 ## ✌️ Sobre mí
