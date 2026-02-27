@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="J.Rubyk.png" alt="Banner" />
+  <img src="J.Rubyk.png" alt="Banner presentacion" />
 </p>
 
 
