@@ -19,7 +19,7 @@ Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 ## ✌️ Sobre mí
 
 - 🇨🇱 Vivo en Chile y trabajo de forma **independiente / remota**.
-- 
+  
 - 🎨 Tengo experiencia como:
   - **Diseñadora web** (WordPress, Elementor, WooCommerce)
   - **Diseñadora gráfica**
