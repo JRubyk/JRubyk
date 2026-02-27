@@ -8,9 +8,9 @@ En este GitHub encontrarás proyectos de backend, frontend y experimentos técni
 
 Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 
-🧩 [[E-Commerce Azulia](https://github.com/JRubyk/E-Comerce-Azulia-2/tree/main)] — Proyecto backend con Python
+🧩 [[E-Commerce Azulia](https://github.com/JRubyk/E-Comerce-Azulia-2/)] — Proyecto backend con Python
 
-🧩 [NombreRepo2] — Aplicación Django con base de datos
+🧩 [[Proyecto Adopta Tu Gato](https://github.com/JRubyk/Proyectoadoptatugato/)] — Proyecto Front End HTML, Css y JS
 
 🧩 [NombreRepo3] — Experimento técnico / sistema en desarrollo
 
