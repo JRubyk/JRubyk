@@ -4,7 +4,7 @@ Soy desarrolladora web con experiencia real creando soluciones para pequeñas em
 
 En este GitHub encontrarás proyectos de backend, frontend y experimentos técnicos que documentan mi proceso de aprendizaje y evolución como desarrolladora.
 
-##🚀 Proyectos destacados
+## 🚀 Proyectos destacados
 
 Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 
