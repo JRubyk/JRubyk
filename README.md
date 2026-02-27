@@ -4,8 +4,7 @@
 
 # 👋 Hola, soy Jeimy
 
-Soy desarrolladora web con experiencia real creando soluciones para pequeñas empresas y actualmente estoy enfocando mi crecimiento hacia el desarrollo Full Stack con Python y Django.
-
+Soy desarrolladora web con experiencia creando soluciones digitales para clientes reales y actualmente estoy enfocando mi crecimiento hacia el desarrollo Full Stack con Python y Django.
 En este GitHub encontrarás proyectos de backend, frontend y experimentos técnicos que documentan mi proceso de aprendizaje y evolución como desarrolladora.
 
 ## 🚀 Proyectos destacados
