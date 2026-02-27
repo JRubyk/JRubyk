@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="presentacion.png" alt="Banner Jeimy" />
-</p>
-
 # 👋 Hola, soy Jeimy
 
 Soy desarrolladora web con experiencia real creando soluciones para pequeñas empresas y actualmente estoy enfocando mi crecimiento hacia el desarrollo Full Stack con Python y Django.
