@@ -41,9 +41,7 @@ Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
   - **Gestión de clientes y ventas online**
     
 - 🐍 Actualmente estoy estudiando:
-  - **Fundamentos de Python**
-  - **POO (Programación Orientada a Objetos)**
-  - **Estructuras de datos, funciones, control de flujo, buenas prácticas (PEP8, Zen de Python)**
+  - Aplicaciones Web Full Stack Python con Django
     
 - 🧠 Me interesa mucho:
   - Juntar **programación + diseño + experiencias de usuario**
