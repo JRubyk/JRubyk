@@ -94,7 +94,8 @@ La idea es que este espacio funcione como:
 ## 🛠️ Stack y herramientas (en progreso)
 
 - **Lenguajes & tecnologías**
-  - Python (fundamentos, POO, scripts de consola)
+  - Python
+  - Django
   - HTML5, CSS3, Bootstrap
   - JavaScript (básico), jQuery
 - **Web & CMS**
