@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="IMG/banner.png" alt="Banner Jeimy" />
-</p>
 
 # 👋 Hola, soy Jeimy
 
