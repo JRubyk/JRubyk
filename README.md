@@ -8,10 +8,8 @@ En este GitHub encontrarás proyectos de backend, frontend y experimentos técni
 
 Aquí algunos proyectos que reflejan mi aprendizaje técnico actual:
 
+- 🧩[[E-Commerce Azulia](https://github.com/JRubyk/E-commerce-Azulia-Final))] - Plataforma de comercio electrónico desarrollada con Django y PostgreSQL, enfocada en la autoadministración del vendedor y la gestión integral del negocio.
 - 🧩[[Libro Contable - Bot Telegram](https://github.com/JRubyk/Libro-contable-conIA)] - Bot en Python para registro automatizado de ingresos y gastos vía Telegram, orientado a gestión financiera simple.
-
-- 🧩[[E-Commerce Azulia](https://github.com/JRubyk/E-Comerce-Azulia-2/)] - Backend en Python para estructura de tienda online y gestión de productos.
-
 - 🧩[[Proyecto Adopta Tu Gato](https://github.com/JRubyk/Proyectoadoptatugato/)] - Sitio frontend en HTML, CSS y JS para difusión de gatos en adopción.
 
 ## 🧠 Habilidades Técnicas
